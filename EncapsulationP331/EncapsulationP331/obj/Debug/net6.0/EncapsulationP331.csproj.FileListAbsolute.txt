@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\bin\Debug\net6.0\EncapsulationP331.exe
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\bin\Debug\net6.0\EncapsulationP331.deps.json
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\bin\Debug\net6.0\EncapsulationP331.runtimeconfig.json
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\bin\Debug\net6.0\EncapsulationP331.dll
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\bin\Debug\net6.0\EncapsulationP331.pdb
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\obj\Debug\net6.0\EncapsulationP331.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\obj\Debug\net6.0\EncapsulationP331.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\obj\Debug\net6.0\EncapsulationP331.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\obj\Debug\net6.0\EncapsulationP331.AssemblyInfo.cs
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\obj\Debug\net6.0\EncapsulationP331.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\obj\Debug\net6.0\EncapsulationP331.dll
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\obj\Debug\net6.0\refint\EncapsulationP331.dll
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\obj\Debug\net6.0\EncapsulationP331.pdb
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\obj\Debug\net6.0\EncapsulationP331.genruntimeconfig.cache
+C:\Users\asus\Desktop\EncapsulationP331\EncapsulationP331\obj\Debug\net6.0\ref\EncapsulationP331.dll
